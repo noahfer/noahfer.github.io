@@ -1,2 +1,3 @@
 name: Noah Ferrarotto, Graduating Mechanical Engineering Student
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
