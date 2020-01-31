@@ -2,5 +2,5 @@
 layout: default
 title: Noah Ferrarotto
 ---
-# Noah Ferrarotto
-## Mechanical Engineer's Portfolio
+
+## Mechanical Engineer's Portfolio.
