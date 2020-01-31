@@ -1,11 +1,11 @@
-# Four years of experience. 
-# Design
+## Four years of experience. 
+## Design
 Laminate theory
 CAD
 FEA
 Process modeling
 
-# Manufacturing
+## Manufacturing
 Prepreg
 Infusion
 Wet layup
