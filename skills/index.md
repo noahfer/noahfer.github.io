@@ -1,4 +1,4 @@
-## Four years of experience. 
+<h2 style="text-align: center;"> Four years of experience. 
 ## Design
 Laminate theory
 CAD
