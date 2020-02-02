@@ -10,6 +10,6 @@ I implemented course material learned in Prof. Larry Lessard's Mechanics of Comp
 ### 3D-printed cores for liquid composite moulding
 I evaluated the capacity of additive manufacturing to enable the fabracation of more complex aerospace parts. 
 
-## McGill Formula Electric
+## McGill Formula Electric.
 ### Formula SAE Electric (chassis subsystem)
 I was introduced to the world of composite materials within McGill's electric racecar team. I learned the basics of laminate design and became familiar with the prepreg manufacturing process.  
