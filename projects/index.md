@@ -1,3 +1,8 @@
+---
+layout: default
+title: projects
+---
+
 ## Rafale.
 ### Sustainable Moth-class sailboat (hydrofoil subsystem)
 For my senior year capstone project, I sparked the first ever McGill-ETS design team partnership to tackle the SuMoth Challenge: build a high-performance sailboat using sustainable materials and manufacturing processes. 
