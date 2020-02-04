@@ -3,7 +3,7 @@ layout: default
 title: about me
 ---
 
-![Alt text](profile.jpg)
+<img src="profile.jpg" alt="alt text" width="200"/>
 
 ## Hi, I'm Noah Ferrarotto. 
 
