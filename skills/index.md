@@ -1,3 +1,8 @@
+---
+layout: default
+title: skills
+---
+
 <h2 style="text-align: center;"> Four years of experience. 
 </h2>
 
