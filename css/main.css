@@ -31,6 +31,16 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
+ul.skills {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+ul.skills > li {
+    float: left;
+    padding: 30px;
+    text-align: center;
+}
 
 ul.posts { 
     margin: 20px auto 40px; 
