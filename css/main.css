@@ -43,9 +43,8 @@ ul.skills > li {
 }
 .grid-container {
     display: grid;
-    grid-template-columns: auto auto auto;
-    background-color: #2196F3;
-    padding: 10px;
+    grid-column-gap:10%;
+    grid-template-columns:30% 70%;
 }
 ul.posts { 
     margin: 20px auto 40px; 
