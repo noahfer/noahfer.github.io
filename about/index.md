@@ -5,7 +5,7 @@ title: about me
 
 <div style="margin: 10%" class="grid-container">
 	<div>
-		<img src="profile.jpg" alt="profile" style="border-radius:50%;width:300%">
+		<img src="profile.jpg" alt="profile" style="border-radius:50%;width:300px">
 	</div>
 	<div>
 		<h2 style="padding-left:10%">Hi, I'm Noah Ferrarotto.</h2>
