@@ -31,7 +31,6 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-/*
 ul.skills {
     list-style-type: none;
     margin: 0px;
@@ -39,10 +38,15 @@ ul.skills {
 }
 ul.skills > li {
     float: left;
-    padding: 0px;
-    text-align: center;
+  /*  padding: 0px;
+    text-align: center;*/
 }
-
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+}
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
