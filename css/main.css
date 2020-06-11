@@ -60,3 +60,8 @@ ul.posts li {
     justify-content: center;
     align-items: center;
 }
+@media screen and (max-width: 500px) {
+    body {
+        width: 95%;
+    }
+}
