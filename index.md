@@ -2,5 +2,6 @@
 layout: default
 title: Noah Ferrarotto
 ---
-
-<h2 style="text-align: center"> Mechanical Engineer's Portfolio.</h2>
+<section id="blurb">
+	<h2 style="text-align: center"> Mechanical Engineer's Portfolio.</h2>
+</section>
