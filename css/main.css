@@ -54,3 +54,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+#blurb {
+    display: flex;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+}
