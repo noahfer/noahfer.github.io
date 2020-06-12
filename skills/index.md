@@ -5,10 +5,10 @@ title: skills | Noah Ferrarotto
 
 <div id="experience">
 	<div id="xp-background">
-		<div>img1</div>
-		<div>img2</div>
-		<div>img3</div>
-		<div>img4</div>
+		<div id="bg-1"></div>
+		<div id="bg-2"></div>
+		<div id="bg-3"></div>
+		<div id="bg-4"></div>
 	</div>
 	<div id="xp-text">
 		<h2>Four years of experience.</h2>
