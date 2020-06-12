@@ -11,7 +11,7 @@ title: skills | Noah Ferrarotto
 		<div id="bg-4"></div>
 	</div>
 	<div id="xp-text">
-		<h2>Four years of experience.</h2>
+		<h1>Four years of experience.</h1>
 	</div>
 </div>
 <h2>Design</h2>
