@@ -50,7 +50,6 @@ p {
 #experience {
     position: relative;
     height: 40vh;
-    border: 1px solid black;
 }
 #xp-background {
     position: absolute;
@@ -61,9 +60,22 @@ p {
 }
 #xp-background > div {
     flex: 25%;
-    border: 1px dashed black;
+    background-size: cover;
+    overflow: hidden;
+    opacity: 0.5;
 }
-
+#bg-1 {
+    background: url(/images/slab-bag.jpg) no-repeat center;
+}
+#bg-2 {
+    background: url(/images/flatwise.jpg) no-repeat center;
+}
+#bg-3 {
+    background: url(/images/inner.jpg) no-repeat center;
+}
+#bg-4 {
+    background: url(/images/mfe-close.jpg) no-repeat center;
+}
 #xp-text {
     position: absolute;
     display: flex;
@@ -125,8 +137,5 @@ footer a:hover {
     }
     .profile {
         padding: 25px 50px;
-    }
-    #xp-background {
-        flex-direction: column;
     }
 }
