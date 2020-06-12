@@ -28,21 +28,23 @@ nav a:hover {
 .flex-container {
     display: flex;
     flex-flow: row nowrap;
-    justify-content: space-between;
-    align-items: center;
     margin: 20px;
-    border: 1px solid black;
 }
 .flex-item {
-    border: 1px dashed black;
+    margin: 30px;
+}
+.profile {
+    border-radius:50%;
+    width: 100%;
 }
 h1 {
-    font-size: 1.3em;
+    font-size: 1.2em;
 }
 p {
-    font-size: 1.3em;
+    font-size: 1.2em;
     line-height: 1.4em;
     color: #333;
+    width: 100%;
 }
 /* Footer */
 footer {
@@ -92,12 +94,18 @@ ul.posts li {
     justify-content: center;
     align-items: center;
 }
+/* Tablet */
+@media screen and (max-width: 1000px) {
+    .flex-item {
+        margin: 5px;
+    }
+}
 /* Mobile */
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 700px) {
     body {
         padding: 5px;
     }
-    flex-container {
+    .flex-container {
         flex-flow: column nowrap;
         margin: 0;
     }
