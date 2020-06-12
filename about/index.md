@@ -5,7 +5,7 @@ title: about me | Noah Ferrarotto
 
 <div class="flex-container">
 	<div class="flex-item" style="flex: 1 1 300px">
-		<img src="profile.jpg" alt="profile" class="profile">
+		<img src="/images/profile.jpg" alt="profile" class="profile">
 	</div>
 	<div class="flex-item" style="flex: 2 1 800px">
 		<h2>Hi, I'm Noah Ferrarotto.</h2>
