@@ -27,7 +27,7 @@ p {
     height: 80vh;
     justify-content: center;
     align-items: center;
-    background: url(/images/medxl.jpg) no-repeat center;
+    background: url(/images/clean.jpg) no-repeat center;
     background-size: cover;
     overflow: hidden;
     opacity: 0.4;
@@ -81,7 +81,7 @@ nav a:hover {
     opacity: 0.4;
 }
 #bg-1 {
-    background: url(/images/slab-bag.jpg) no-repeat center;
+    background: url(/images/bag.jpg) no-repeat center;
 }
 #bg-2 {
     background: url(/images/flatwise.jpg) no-repeat center;
