@@ -24,7 +24,7 @@ nav a:link, nav a:visited {
 nav a:hover {
     text-decoration: underline;
 }
-/* Content */
+/* About */
 .flex-container {
     display: flex;
     flex-flow: row nowrap;
@@ -46,6 +46,43 @@ p {
     color: #333;
     width: 100%;
 }
+/* Skills */
+#experience {
+    position: relative;
+    height: 40vh;
+    border: 1px solid black;
+}
+#xp-background {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+}
+#xp-background > div {
+    flex: 25%;
+    border: 1px dashed black;
+}
+
+#xp-text {
+    position: absolute;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.skills {
+    display: flex;
+    flex-flow: row wrap;
+    border: 1px solid black;
+}
+.skills > div {
+    border: 1px dashed black;
+    width: 300px;
+    padding: 5px;
+    margin: 5px;
+}
 /* Footer */
 footer {
     display: flex;
@@ -64,29 +101,6 @@ footer a:link, footer a:visited {
 }
 footer a:hover {
     text-decoration: underline;
-}
-ul.skills {
-    list-style-type: none;
-    margin: 0px;
-    padding: 0px;
-}
-ul.skills > li {
-    float: left;
-  /*  padding: 0px;
-    text-align: center;*/
-}
-.grid-container {
-    display: grid;
-    grid-column-gap:10%;
-    grid-template-columns:30% 70%;
-}
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
-}
-
-ul.posts li {
-    list-style: none;
 }
 #blurb {
     display: flex;
@@ -111,5 +125,8 @@ ul.posts li {
     }
     .profile {
         padding: 25px 50px;
+    }
+    #xp-background {
+        flex-direction: column;
     }
 }
