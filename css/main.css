@@ -105,10 +105,8 @@ nav a:hover {
     display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
-    border: 1px solid black;
 }
 .skills > div {
-    border: 1px dashed black;
     width: 300px;
     padding: 5px;
     margin: 5px;
