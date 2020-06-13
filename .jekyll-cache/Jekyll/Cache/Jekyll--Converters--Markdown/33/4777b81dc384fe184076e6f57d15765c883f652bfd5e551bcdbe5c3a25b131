@@ -1,0 +1,31 @@
+I"/<div id="experience">
+	<div id="xp-background">
+		<div id="bg-1"></div>
+		<div id="bg-2"></div>
+		<div id="bg-3"></div>
+		<div id="bg-4"></div>
+	</div>
+	<div id="xp-text">
+		<h1>Four years of experience.</h1>
+	</div>
+</div>
+<h2>Design</h2>
+<div class="skills">
+	<div>
+		<img src="/images/clc.png" />
+		<div>
+			<h3>`Laminate theory</h3>
+		</div>
+	</div>
+	<div>CAD</div>
+	<div>FEA</div>
+	<div>Process modelling</div>
+</div>
+<h2>Manufacturing</h2>
+<div class="skills">
+	<div>Prepreg</div>
+	<div>Infusion</div>
+	<div>Wet layup</div>
+	<div>Autoclave</div>
+</div>
+:ET
