@@ -16,15 +16,39 @@ title: skills | Noah Ferrarotto
 </div>
 <h2>Design</h2>
 <div class="skills">
-	<div>Laminate theory</div>
-	<div>CAD</div>
-	<div>FEA</div>
-	<div>Process modelling</div>
+	<div>
+		<img src="/icons/clc.png" alt="clc">
+		<h3>Laminate theory</h3>
+	</div>
+	<div>
+		<img src="/icons/cad.png" alt="cad">
+		<h3>CAD</h3>
+	</div>
+	<div>
+		<img src="/icons/fea.png" alt="fea">
+		<h3>FEA</h3>
+	</div>
+	<div>
+		<img src="/icons/process.png" alt="process">
+		<h3>Process modelling</h3>
+	</div>
 </div>
 <h2>Manufacturing</h2>
 <div class="skills">
-	<div>Prepreg</div>
-	<div>Infusion</div>
-	<div>Wet layup</div>
-	<div>Autoclave</div>
+	<div>
+		<img src="/icons/prepreg.png" alt="prepreg">
+		<h3>Prepreg</h3>
+	</div>
+	<div>
+		<img src="/icons/infusion.png" alt="infusion">
+		<h3>Infusion</h3>
+	</div>
+	<div>
+		<img src="/icons/wet.png" alt="wet layup">
+		<h3>Wet layup</h3>
+	</div>
+	<div>
+		<img src="/icons/autoclave.jpg" alt="autoclave">
+		<h3>Autoclave</h3>
+	</div>
 </div>
