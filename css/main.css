@@ -11,6 +11,7 @@ h1 {
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
     letter-spacing: 2px;
     color: white;
+    text-align: center;
 }
 h2 {
     font-size: 1.2em;
@@ -103,6 +104,7 @@ nav a:hover {
 .skills {
     display: flex;
     flex-flow: row wrap;
+    justify-content: space-between;
     border: 1px solid black;
 }
 .skills > div {
@@ -110,6 +112,13 @@ nav a:hover {
     width: 300px;
     padding: 5px;
     margin: 5px;
+}
+.skills img {
+    width: 100%;
+}
+.skills h3 {
+    width: 100%;
+    text-align: center;
 }
 /* Footer */
 footer {
