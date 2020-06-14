@@ -17,6 +17,10 @@ h2 {
     font-size: 1.2em;
     padding-top: 1em;
 }
+h3 {
+    font-weight: normal;
+    padding-bottom: 1em;
+}
 p {
     font-size: 1.2em;
     line-height: 1.4em;
@@ -48,6 +52,25 @@ nav a:link, nav a:visited {
     font-weight: bold;
 }
 nav a:hover {
+    text-decoration: underline;
+}
+/* Footer */
+footer {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: baseline;
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+footer div {
+    padding: 5px 10px 5px 0;
+}
+footer a:link, footer a:visited {
+    color: #999;
+    text-decoration: none;
+    font-weight: bold;
+}
+footer a:hover {
     text-decoration: underline;
 }
 /* About */
@@ -82,13 +105,13 @@ nav a:hover {
     opacity: 0.4;
 }
 #bg-1 {
-    background: url(/images/bag.JPG) no-repeat center;
-}
-#bg-2 {
     background: url(/images/flatwise.jpg) no-repeat center;
 }
+#bg-2 {
+    background: url(/images/layup.jpg) no-repeat center;
+}
 #bg-3 {
-    background: url(/images/inner.jpg) no-repeat center;
+    background: url(/images/slab-bag.JPG) no-repeat center;
 }
 #bg-4 {
     background: url(/images/mfe-close.jpg) no-repeat center;
@@ -103,44 +126,53 @@ nav a:hover {
 }
 .skills {
     display: flex;
-    flex-flow: row wrap;
+    flex-flow: row nowrap;
     justify-content: space-between;
 }
 .skills > div {
     width: 300px;
-    padding: 5px;
     margin: 5px;
 }
 .skills img {
     width: 100%;
+    border: 1px solid #999;
 }
 .skills h3 {
     width: 100%;
     text-align: center;
+    padding-bottom: 15px;
 }
-/* Footer */
-footer {
-    display: flex;
-    flex-flow: row wrap;
-    align-items: baseline;
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
-}
-footer div {
-    padding: 5px 10px 5px 0;
-}
-footer a:link, footer a:visited {
-    color: #999;
-    text-decoration: none;
-    font-weight: bold;
-}
-footer a:hover {
+.skills > div:hover h3 {
     text-decoration: underline;
+}
+/* Projects */
+.project {
+    display: flex;
+    flex-flow: row nowrap;
+}
+.project img {
+    width: 100%;
+    padding: 10%;
+}
+.project-image {
+    flex:40%;
+}
+.project-text {
+    flex: 60%;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
 }
 /* Tablet */
 @media screen and (max-width: 1000px) {
     .flex-item {
         margin: 5px;
+    }
+    .skills {
+        flex-wrap: wrap;
+    }
+    .project {
+       flex-direction: column;
     }
 }
 /* Mobile */
