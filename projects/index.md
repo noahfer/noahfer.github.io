@@ -5,7 +5,7 @@ title: projects
 
 <div class="project">
 	<div class="project-image">
-		<img src="/images/rafale-logo.webp">
+		<img src="/images/rafale-logo.png">
 	</div>
 	<div class="project-text">
 		<h2>Rafale.</h2>
