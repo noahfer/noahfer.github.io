@@ -17,38 +17,38 @@ title: skills | Noah Ferrarotto
 <h2>Design</h2>
 <div class="skills">
 	<div>
-		<img src="/icons/clc.png" alt="clc">
+		<img src="/images/clc.png" alt="clc">
 		<h3>Laminate theory</h3>
 	</div>
 	<div>
-		<img src="/icons/cad.png" alt="cad">
+		<img src="/images/cad.png" alt="cad">
 		<h3>CAD</h3>
 	</div>
 	<div>
-		<img src="/icons/fea.png" alt="fea">
+		<img src="/images/fea.png" alt="fea">
 		<h3>FEA</h3>
 	</div>
 	<div>
-		<img src="/icons/process.png" alt="process">
+		<img src="/images/raven.png" alt="process">
 		<h3>Process modelling</h3>
 	</div>
 </div>
 <h2>Manufacturing</h2>
 <div class="skills">
 	<div>
-		<img src="/icons/prepreg.png" alt="prepreg">
+		<img src="/images/chassis-prepreg.jpg" alt="prepreg">
 		<h3>Prepreg</h3>
 	</div>
 	<div>
-		<img src="/icons/infusion.png" alt="infusion">
+		<img src="/images/infusion.jpg" alt="infusion">
 		<h3>Infusion</h3>
 	</div>
 	<div>
-		<img src="/icons/wet.png" alt="wet layup">
-		<h3>Wet layup</h3>
+		<img src="/images/chassis-bag.jpg" alt="Vacuum bagging">
+		<h3>Vacuum bag</h3>
 	</div>
 	<div>
-		<img src="/icons/autoclave.jpg" alt="autoclave">
+		<img src="/images/autoclave.jpg" alt="autoclave">
 		<h3>Autoclave</h3>
 	</div>
 </div>
