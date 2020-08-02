@@ -3,31 +3,31 @@
 	<url>
 		<loc>https://noahfer.github.io/</loc>
 		<lastmod>2020-08-02</lastmod>
-		<changefreq>montthly</changefreq>
+		<changefreq>monthly</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>https://noahfer.github.io/about/</loc>
 		<lastmod>2020-08-02</lastmod>
-		<changefreq>montthly</changefreq>
+		<changefreq>monthly</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>https://noahfer.github.io/skills/</loc>
 		<lastmod>2020-08-02</lastmod>
-		<changefreq>montthly</changefreq>
-		<priority>0.5</priority>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
 	</url>
 	<url>
 		<loc>https://noahfer.github.io/projects/</loc>
 		<lastmod>2020-08-02</lastmod>
-		<changefreq>montthly</changefreq>
-		<priority>0.5</priority>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
 	</url>
 	<url>
 		<loc>https://noahfer.github.io/resume.pdf</loc>
 		<lastmod>2020-08-02</lastmod>
-		<changefreq>montthly</changefreq>
-		<priority>0.5</priority>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
 	</url>
 </urlset>
