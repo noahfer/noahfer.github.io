@@ -1,6 +1,6 @@
 ---
 layout: default
-title: about me | Noah Ferrarotto
+title: About | Noah Ferrarotto
 ---
 
 <div class="flex-container">
