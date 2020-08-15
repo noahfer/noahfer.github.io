@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skills | Noah Ferrarotto
+title: Skills | Noah Ferrarotto
 ---
 
 <div id="experience">
